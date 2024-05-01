@@ -1,0 +1,13 @@
+body,
+html {
+        min-height: 100vh;
+}
+
+html {
+        /* background-image: radial-gradient(
+                circle at 100% 0%,
+                rgba(20, 20, 20, .3),
+                rgba(20, 20, 50, .45)
+        ); */
+        background-color: #030300;
+}

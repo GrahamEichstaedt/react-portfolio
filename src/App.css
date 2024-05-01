@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Space+Mono:regular,italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+:root {
+
+}
+
+body,
+html {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("assets/solar-eclipse.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  /* background-size: cover; */
+  position: relative;
+}
